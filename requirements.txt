@@ -1,0 +1,6 @@
+Django
+django-filter>=2
+djangorestframework
+graphene
+graphene-django
+
